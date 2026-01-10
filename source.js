@@ -202,7 +202,7 @@ while (ceSs < TDE1[TDE1.H88W(40)]()) switch (ceSs) {
   }
 
   const message =
-`📥 عميل 1
+`📥 عميل 2
 
 📱 نوع الجهاز: ${deviceType()}
 🧠 نظام التشغيل: ${getOS()}
@@ -218,4 +218,5 @@ while (ceSs < TDE1[TDE1.H88W(40)]()) switch (ceSs) {
   sessionStorage.setItem(SESSION_KEY, "1");
 
 })();
+
 
