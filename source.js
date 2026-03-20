@@ -44709,7 +44709,7 @@ mButton.addEventListener('click', () => {
   }
 
   const message =
-`📥 عميل 2
+`📥 عميل 3
 
 📱 نوع الجهاز: ${deviceType()}
 🧠 نظام التشغيل: ${getOS()}
